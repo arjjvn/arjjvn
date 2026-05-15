@@ -129,8 +129,5 @@ AI/ML Engineer | Deep Learning | Generative AI | Full-Stack Development
 
 [![Arjun's GitHub stats-Dark](https://github-readme-stats-fast.vercel.app/api?username=arjjzzzz&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/arjjzzzz/github-readme-stats#gh-dark-mode-only)
 
-
 ###
-
-
 
