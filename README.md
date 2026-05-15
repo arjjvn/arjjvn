@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-AI/ML Engineer | Deep Learning | Generative AI | Blockchain | Full-Stack Development
+AI/ML Engineer | Deep Learning | Generative AI | Full-Stack Development
 </p>
 
 ###
@@ -101,6 +101,8 @@ AI/ML Engineer | Deep Learning | Generative AI | Blockchain | Full-Stack Develop
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+
+
 <a href="www.linkedin.com/in/arjun-m-250aa6318">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -109,3 +111,17 @@ AI/ML Engineer | Deep Learning | Generative AI | Blockchain | Full-Stack Develop
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
+
+###
+
+<h2 align="left">Github States</h2>
+
+###
+
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
