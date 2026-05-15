@@ -119,9 +119,7 @@ AI/ML Engineer | Deep Learning | Generative AI | Full-Stack Development
 ###
 
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/stats-output/stats.svg" height="150" alt="stats graph"  />
-</div>
+[![Arjun's GitHub stats-Dark](https://github-readme-stats-fast.vercel.app/api?username=arjjzzzz&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/arjjzzzz/github-readme-stats#gh-dark-mode-only)
+
 
 ###
-
