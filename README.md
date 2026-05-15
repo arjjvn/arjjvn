@@ -1,3 +1,10 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+###
+
+
 <h1 align="left">Hi 👋 I'm Arjun</h1>
 
 ###
@@ -116,6 +123,7 @@ AI/ML Engineer | Deep Learning | Generative AI | Full-Stack Development
 
 <h2 align="left">Github States</h2>
 
+
 ###
 
 
@@ -123,3 +131,6 @@ AI/ML Engineer | Deep Learning | Generative AI | Full-Stack Development
 
 
 ###
+
+
+
