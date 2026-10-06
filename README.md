@@ -27,7 +27,6 @@ AI/ML Engineer | Deep Learning | Generative AI | Full-Stack Development
 🎯 Goal: To become a professional AI Engineer building intelligent, real-world AI products.<br>
 ⚡ Interested in AI Engineering, Computer Vision, Generative AI, AI Agents, Full-Stack AI Development, and Blockchain technologies.
 </p>
-###
 
 <h2 align="left">Tech Stack</h2>
 
